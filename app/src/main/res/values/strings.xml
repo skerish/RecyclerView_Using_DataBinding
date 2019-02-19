@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DataBinding_RecyclerView</string>
+    
+    <string-array name="names">
+        <item>Kakashi</item>
+        <item>Itachi Hidden Leaf</item>
+        <item>Gaara</item>
+        <item>Itachi Akatsuki</item>
+        <item>Tobi</item>
+        <item>Pain</item>
+        <item>Spiderman</item>
+        <item>Gogeta</item>
+        <item>Beerus</item>
+        <item>Sasuke</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item>kakashi@gmail.com</item>
+        <item>itachi_leaf@gmail.com</item>
+        <item>gaara_kazekage@gmail.com</item>
+        <item>itachi_akatsuki@gmail.com</item>
+        <item>tobi_obito@gmail.com</item>
+        <item>the_god_pain@gmail.com</item>
+        <item>friendly_neighbourhood@gmail.com</item>
+        <item>gogeta_super@gmail.com</item>
+        <item>beerus_theDestroyer@gmail.com</item>
+        <item>sasuke_sharingan@gmail.com</item>
+    </string-array>
+    
+</resources>
